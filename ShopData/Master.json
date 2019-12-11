@@ -5,6 +5,7 @@
         "Name": "Rewind",
         "Type": "Ability",
         "Description": "It's rewind time! Go back to where you were 5 seconds ago instantly.",
+        "Thumbnail": "rbxgameasset://Images/AbilityRewind",
         "ItemCost": {"Currency": "Bytes","Cost": 250},
         "Tags": {}
         
@@ -15,6 +16,7 @@
         "Name": "Ninja Bomb",
         "Type": "Ability",
         "Description": "Turn you and everyone nearby invisible for 8 seconds.",
+        "Thumbnail": "http://www.roblox.com/asset/?id=4381061029",
         "ItemCost": {"Currency": "Bytes","Cost": 300},
         "Tags": {}
         
@@ -25,7 +27,19 @@
         "Name": "Unbreakable Heart",
         "Type": "Ability",
         "Description": "Become invincible for 3 seconds with the power of determination.",
+        "Thumbnail": "http://www.roblox.com/asset/?id=4381061029",
         "ItemCost": {"Currency": "Bytes","Cost": 250},
+        "Tags": {}
+        
+      },
+      
+      {
+      
+        "Name": "Angelic Presence",
+        "Type": "Perk",
+        "Description": "Slowly heals and disinfects nearby scientists.",
+        "Thumbnail": "http://www.roblox.com/asset/?id=4381061029",
+        "ItemCost": {"Currency": "Cubons","Cost": 5},
         "Tags": {}
         
       }
