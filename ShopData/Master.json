@@ -46,6 +46,17 @@
         "ItemCost": {"Currency": "Cubons","Cost": 5},
         "Tags": {}
         
+      },
+      
+      {
+      
+        "Name": "Pride Justice",
+        "Type": "Ability",
+        "Description": "Absolute unit of speed. +3 walkspeed for 4 seconds",
+        "Thumbnail": "rbxassetid://",
+        "Role": "Scientist",
+        "ItemCost": {"Currency": "Bytes","Cost": 300},
+        "Tags": {}
+        
       }
-
 ]
