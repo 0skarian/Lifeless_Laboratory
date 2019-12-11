@@ -3,7 +3,7 @@
        {
       
         "Name": "Rewind",
-        Type: "Ability",
+        "Type": "Ability",
         "Description": "It's rewind time! Go back to where you were 5 seconds ago instantly.",
         "ItemCost": {"Currency": "Bytes","Cost": 250},
         "Tags": {}
@@ -13,7 +13,7 @@
       {
       
         "Name": "Ninja Bomb",
-        Type: "Ability",
+        "Type": "Ability",
         "Description": "Turn you and everyone nearby invisible for 8 seconds.",
         "ItemCost": {"Currency": "Bytes","Cost": 300},
         "Tags": {}
@@ -23,7 +23,7 @@
       {
       
         "Name": "Unbreakable Heart",
-        Type: "Ability",
+        "Type": "Ability",
         "Description": "Become invincible for 3 seconds with the power of determination.",
         "ItemCost": {"Currency": "Bytes","Cost": 250},
         "Tags": {}
