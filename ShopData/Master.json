@@ -16,7 +16,7 @@
         "Name": "Ninja Bomb",
         "Type": "Ability",
         "Description": "Turn you and everyone nearby invisible for 8 seconds.",
-        "Thumbnail": "http://www.roblox.com/asset/?id=4381061029",
+        "Thumbnail": "rbxassetid://4505987588",
         "ItemCost": {"Currency": "Bytes","Cost": 300},
         "Tags": {}
         
@@ -27,7 +27,7 @@
         "Name": "Unbreakable Heart",
         "Type": "Ability",
         "Description": "Become invincible for 3 seconds with the power of determination.",
-        "Thumbnail": "http://www.roblox.com/asset/?id=4381061029",
+        "Thumbnail": "rbxassetid://4505987588",
         "ItemCost": {"Currency": "Bytes","Cost": 250},
         "Tags": {}
         
