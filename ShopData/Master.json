@@ -53,9 +53,129 @@
         "Name": "Pride Justice",
         "Type": "Ability",
         "Description": "Absolute unit of speed. +3 walkspeed for 4 seconds",
-        "Thumbnail": "rbxassetid://",
+        "Thumbnail": "rbxassetid://4505987588",
         "Role": "Scientist",
         "ItemCost": {"Currency": "Bytes","Cost": 300},
+        "Tags": {}
+        
+      },
+      
+       {
+      
+        "Name": "Helping Hand",
+        "Type": "Ability",
+        "Description": "Weewoo! Save a downed scientist, restoring all their health. Watch out - you will not be cured!",
+        "Thumbnail": "rbxassetid://4505987588",
+        "Role": "Scientist",
+        "ItemCost": {"Currency": "Bytes","Cost": 600},
+        "Tags": {}
+        
+      },
+      
+       {
+      
+        "Name": "Helping Hand",
+        "Type": "Ability",
+        "Description": "Weewoo! Save a downed scientist, restoring all their health. Watch out - you will not be cured!",
+        "Thumbnail": "rbxassetid://4505987588",
+        "Role": "Scientist",
+        "ItemCost": {"Currency": "Bytes","Cost": 600},
+        "Tags": {}
+        
+      },
+      
+      {
+      
+        "Name": "Radiating Power",
+        "Type": "Ability",
+        "Description": "Make all levers freeze in place for a short duration of time.",
+        "Thumbnail": "rbxassetid://4505987588",
+        "Role": "Zombie",
+        "ItemCost": {"Currency": "Bytes","Cost": 400},
+        "Tags": {}
+        
+      },
+      
+       {
+      
+        "Name": "Shattered Clock",
+        "Type": "Ability",
+        "Description": "Break the spacetime continium and halt all the nearby zombies for 5 seconds.",
+        "Thumbnail": "rbxassetid://4505987588",
+        "Role": "Scientist",
+        "ItemCost": {"Currency": "Bytes","Cost": 500},
+        "Tags": {}
+        
+      },
+      
+      {
+      
+        "Name": "Hot milk",
+        "Type": "Perk",
+        "Description": "Play with fire and start the round with being 80% infected and 50% of normal health - gives you double income in return!",
+        "Thumbnail": "rbxassetid://4505987588",
+        "Role": "Scientist",
+        "ItemCost": {"Currency": "Cubons","Cost": 1},
+        "Tags": {}
+        
+      },
+      
+      {
+      
+        "Name": "Sharp Teeth",
+        "Type": "Ability",
+        "Description": "Deal double damage for a short duration of time. ",
+        "Thumbnail": "rbxassetid://4505987588",
+        "Role": "Zombie",
+        "ItemCost": {"Currency": "Cash","Cost": 200},
+        "Tags": {}
+        
+      },
+      
+       {
+      
+        "Name": "Escape Plan",
+        "Type": "Perk",
+        "Description": "If all levers are pulled, instantly teleport to the exit.",
+        "Thumbnail": "rbxassetid://4505987588",
+        "Role": "Zombie",
+        "ItemCost": {"Currency": "Cash","Cost": 100},
+        "Tags": {}
+        
+      },
+      
+      {
+      
+        "Name": "Rigged Game",
+        "Type": "Ability",
+        "Description": "Deactivate a nearby lever to prevent scientists from escaping - why didn't you think of that?",
+        "Thumbnail": "rbxassetid://4505987588",
+        "Role": "Zombie",
+        "ItemCost": {"Currency": "Cash","Cost": 300},
+        "Tags": {}
+        
+      },
+      
+      {
+      
+        "Name": "Last Breath",
+        "Type": "Ability",
+        "Description": "Breathe! Gain more speed for 2 seconds, then become notably slower.",
+        "Thumbnail": "rbxassetid://4505987588",
+        "Role": "Scientist",
+        "ItemCost": {"Currency": "Cash","Cost": 150},
+        "Tags": {}
+        
+      },
+      
+      {
+      
+        "Name": "Nightmare",
+        "Type": "Perk",
+        "Description": "Upon all levers being pulled, deal double damage and become slightly faster.",
+        "Thumbnail": "rbxassetid://4505987588",
+        "Role": "Zombie",
+        "ItemCost": {"Currency": "Cash","Cost": 450},
         "Tags": {}
         
       }
