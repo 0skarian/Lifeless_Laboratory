@@ -163,7 +163,7 @@
         "Description": "Upon all levers being pulled, deal double damage and become slightly faster.",
         "Thumbnail": "rbxassetid://4505987588",
         "Role": "Zombie",
-        "ItemCost": {"Currency": "Cash","Cost": 450},
+        "ItemCost": {"Currency": "Bytes","Cost": 450},
         "Tags": []
         
       },
@@ -175,7 +175,7 @@
         "Description": "Have a code? Reedem them below for a special reward! Codes can only be reedemed once per account.",
         "Thumbnail": "rbxassetid://2700297391",
         "Role": "All",
-        "ItemCost": {"Currency": "Cash","Cost": 0},
+        "ItemCost": {"Currency": "Bytes","Cost": 0},
         "Tags": ["Twitter"]
         
       }
