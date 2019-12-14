@@ -166,5 +166,17 @@
         "ItemCost": {"Currency": "Cash","Cost": 450},
         "Tags": {}
         
+      },
+      
+      {
+      
+        "Name": "Twitter Codes",
+        "Type": "Special",
+        "Description": "Have a code? Reedem them below for a special reward! Codes can only be reedemed once per account.",
+        "Thumbnail": "rbxassetid://2700297391",
+        "Role": "All",
+        "ItemCost": {"Currency": "Cash","Cost": 0},
+        "Tags": {"Twitter"}
+        
       }
 ]
