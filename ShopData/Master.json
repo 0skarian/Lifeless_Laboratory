@@ -199,7 +199,7 @@
         "Description": "Doubles all the bytes you earn - permanently. Doesn't apply with certain promotions.",
         "Thumbnail": "rbxassetid://4515935112",
         "Role": "All",
-        "ItemCost": {"Currency": "Robux","Cost": 250}, "ID": 7761125},
+        "ItemCost": {"Currency": "Robux","Cost": 250, "ID": 7761125},
         "Tags": []
         
       },
