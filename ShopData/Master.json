@@ -178,5 +178,89 @@
         "ItemCost": {"Currency": "Bytes","Cost": 0},
         "Tags": ["Twitter"]
         
+      },
+      
+      {
+      
+        "Name": "X2 Zombie Chance",
+        "Type": "Gamepass",
+        "Description": "Doubles your chance of starting as the zombie - permanently. This can be disabled in the settings.",
+        "Thumbnail": "rbxassetid://4515933117",
+        "Role": "All",
+        "ItemCost": {"Currency": "Robux","Cost": 250},
+        "Tags": []
+        
+      },
+      
+      {
+      
+        "Name": "Double Bytes",
+        "Type": "Gamepass",
+        "Description": "Doubles all the bytes you earn - permanently. Doesn't apply with certain promotions.",
+        "Thumbnail": "rbxassetid://4515935112",
+        "Role": "All",
+        "ItemCost": {"Currency": "Robux","Cost": 250},
+        "Tags": []
+        
+      },
+      
+      {
+      
+        "Name": "500 Bytes",
+        "Type": "Currency Product",
+        "Description": "Adds 500 bytes to your account - a nifty little bonus. :)",
+        "Thumbnail": "rbxassetid://4515939570",
+        "Role": "All",
+        "ItemCost": {"Currency": "Robux","Cost": 25},
+        "Tags": []
+        
+      },
+      
+      {
+      
+        "Name": "2000 Bytes",
+        "Type": "Currency Product",
+        "Description": "Adds 2000 bytes to your account - quite the handful!",
+        "Thumbnail": "rbxassetid://4515938421",
+        "Role": "All",
+        "ItemCost": {"Currency": "Robux","Cost": 75},
+        "Tags": []
+        
+      },
+      
+      {
+      
+        "Name": "5000 Bytes",
+        "Type": "Currency Product",
+        "Description": "Adds 5000 bytes to your account - now we're getting somewhere!",
+        "Thumbnail": "rbxassetid://4515938590",
+        "Role": "All",
+        "ItemCost": {"Currency": "Robux","Cost": 150},
+        "Tags": []
+        
+      },
+      
+      {
+      
+        "Name": "10K Bytes",
+        "Type": "Currency Product",
+        "Description": "Adds 10000 bytes to your account - that's like an entire wallet!",
+        "Thumbnail": "rbxassetid://4515938765",
+        "Role": "All",
+        "ItemCost": {"Currency": "Robux","Cost": 375},
+        "Tags": []
+        
+      },
+      
+      {
+      
+        "Name": "100K Bytes",
+        "Type": "Currency Product",
+        "Description": "Adds 100000 bytes to your account - that's all the bytes you'll ever need!",
+        "Thumbnail": "rbxassetid://4515938908",
+        "Role": "All",
+        "ItemCost": {"Currency": "Robux","Cost": 4000},
+        "Tags": []
+        
       }
 ]
