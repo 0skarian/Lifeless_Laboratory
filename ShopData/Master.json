@@ -52,7 +52,7 @@
       
         "Name": "Pride Justice",
         "Type": "Ability",
-        "Description": "Absolute unit of speed. +3 walkspeed for 4 seconds",
+        "Description": "Absolute unit of speed. +6 walkspeed for 5 seconds",
         "Thumbnail": "rbxassetid://4505987588",
         "Role": "Scientist",
         "ItemCost": {"Currency": "Bytes","Cost": 300},
