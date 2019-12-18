@@ -4,7 +4,7 @@
       
         "Name": "Rewind",
         "Type": "Ability",
-        "Description": "It's rewind time! Go back to where you were 5 seconds ago instantly.",
+        "Description": "It's rewind time! Go back to where you were 8 seconds ago instantly.",
         "Thumbnail": "rbxgameasset://Images/AbilityRewind",
         "Role": "Scientist",
         "ItemCost": {"Currency": "Bytes","Cost": 250},
