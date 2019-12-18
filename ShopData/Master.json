@@ -28,7 +28,7 @@
       
         "Name": "Unbreakable Heart",
         "Type": "Ability",
-        "Description": "Become invincible for 3 seconds with the power of determination.",
+        "Description": "Become invincible for 5 seconds with the power of determination.",
         "Thumbnail": "rbxassetid://4505987588",
         "Role": "Scientist",
         "ItemCost": {"Currency": "Bytes","Cost": 250},
