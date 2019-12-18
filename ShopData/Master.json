@@ -60,18 +60,6 @@
         
       },
       
-       {
-      
-        "Name": "Helping Hand",
-        "Type": "Ability",
-        "Description": "Weewoo! Save a downed scientist, restoring all their health. Watch out - you will not be cured!",
-        "Thumbnail": "rbxassetid://4505987588",
-        "Role": "Scientist",
-        "ItemCost": {"Currency": "Bytes","Cost": 600},
-        "Tags": []
-        
-      },
-      
       {
       
         "Name": "Radiating Power",
