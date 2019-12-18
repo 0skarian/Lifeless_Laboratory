@@ -43,7 +43,7 @@
         "Description": "Slowly heals and disinfects nearby scientists.",
         "Thumbnail": "http://www.roblox.com/asset/?id=4381061029",
         "Role": "Scientist",
-        "ItemCost": {"Currency": "Bytes","Cost": 5},
+        "ItemCost": {"Currency": "Bytes","Cost": 500},
         "Tags": []
         
       },
@@ -91,7 +91,7 @@
         "Description": "Play with fire and start the round with being 80% infected and 50% of normal health - gives you double income in return!",
         "Thumbnail": "rbxassetid://4505987588",
         "Role": "Scientist",
-        "ItemCost": {"Currency": "Bytes","Cost": 1},
+        "ItemCost": {"Currency": "Bytes","Cost": 50},
         "Tags": []
         
       },
