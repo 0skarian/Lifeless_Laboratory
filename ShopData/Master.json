@@ -149,7 +149,7 @@
         "Name": "Sixth Sense",
         "Type": "Perk",
         "Description": "You can hear actions commited by other players. Someone pulled a lever, a zombie killed someone just now? It's on your radar!",
-        "Thumbnail": "rbxassetid://4887188065",
+        "Thumbnail": "rbxassetid://549084266",
         "Role": "Scientist",
         "ItemCost": {"Currency": "Bytes","Cost": 500},
         "Tags": []
