@@ -5,7 +5,7 @@
         "Name": "Rewind",
         "Type": "Ability",
         "Description": "It's rewind time! Go back to where you were 8 seconds ago instantly.",
-        "Thumbnail": "rbxgameasset://Images/AbilityRewind",
+        "Thumbnail": "rbxassetid://4520944638",
         "Role": "Scientist",
         "ItemCost": {"Currency": "Bytes","Cost": 250},
         "Tags": []
@@ -17,7 +17,7 @@
         "Name": "Ninja Bomb",
         "Type": "Ability",
         "Description": "Turn yourself invisible for 8 seconds.",
-        "Thumbnail": "rbxassetid://4505987588",
+        "Thumbnail": "rbxassetid://4520944554",
         "Role": "Scientist",
         "ItemCost": {"Currency": "Bytes","Cost": 300},
         "Tags": []
@@ -29,7 +29,7 @@
         "Name": "Angelic Presence",
         "Type": "Perk",
         "Description": "Slowly heals and disinfects nearby scientists.",
-        "Thumbnail": "http://www.roblox.com/asset/?id=4381061029",
+        "Thumbnail": "rbxassetid://4520944398",
         "Role": "Scientist",
         "ItemCost": {"Currency": "Bytes","Cost": 500},
         "Tags": []
@@ -41,7 +41,7 @@
         "Name": "Pride Justice",
         "Type": "Ability",
         "Description": "Absolute unit of speed. +6 walkspeed for 5 seconds",
-        "Thumbnail": "rbxassetid://4505987588",
+        "Thumbnail": "rbxassetid://4520944597",
         "Role": "Scientist",
         "ItemCost": {"Currency": "Bytes","Cost": 300},
         "Tags": []
@@ -53,7 +53,7 @@
         "Name": "Radiating Power",
         "Type": "Ability",
         "Description": "Make all levers freeze in place for a short duration of time.",
-        "Thumbnail": "rbxassetid://4505987588",
+        "Thumbnail": "rbxassetid://4523912080",
         "Role": "Zombie",
         "ItemCost": {"Currency": "Bytes","Cost": 400},
         "Tags": []
@@ -65,7 +65,7 @@
         "Name": "Shattered Clock",
         "Type": "Ability",
         "Description": "Break the spacetime continium and halt all the nearby zombies for 5 seconds.",
-        "Thumbnail": "rbxassetid://4505987588",
+        "Thumbnail": "rbxassetid://4520944773",
         "Role": "Scientist",
         "ItemCost": {"Currency": "Bytes","Cost": 500},
         "Tags": []
@@ -77,7 +77,7 @@
         "Name": "Hot milk",
         "Type": "Perk",
         "Description": "Play with fire and start the round with being 80% infected and 50% of normal health - gives you double income in return!",
-        "Thumbnail": "rbxassetid://4505987588",
+        "Thumbnail": "rbxassetid://4520944435",
         "Role": "Scientist",
         "ItemCost": {"Currency": "Bytes","Cost": 50},
         "Tags": []
@@ -89,7 +89,7 @@
         "Name": "Sharp Teeth",
         "Type": "Ability",
         "Description": "Deal double damage for a short duration of time. ",
-        "Thumbnail": "rbxassetid://4505987588",
+        "Thumbnail": "rbxassetid://4520944725",
         "Role": "Zombie",
         "ItemCost": {"Currency": "Bytes","Cost": 200},
         "Tags": []
@@ -101,7 +101,7 @@
         "Name": "Escape Plan",
         "Type": "Perk",
         "Description": "If all levers are pulled, instantly teleport to the exit.",
-        "Thumbnail": "rbxassetid://4505987588",
+        "Thumbnail": "rbxassetid://4520944471",
         "Role": "Zombie",
         "ItemCost": {"Currency": "Bytes","Cost": 100},
         "Tags": []
@@ -113,7 +113,7 @@
         "Name": "Rigged Game",
         "Type": "Ability",
         "Description": "Deactivate a nearby lever to prevent scientists from escaping - why didn't you think of that?",
-        "Thumbnail": "rbxassetid://4505987588",
+        "Thumbnail": "rbxassetid://4520944687",
         "Role": "Zombie",
         "ItemCost": {"Currency": "Bytes","Cost": 300},
         "Tags": []
@@ -125,7 +125,7 @@
         "Name": "Last Breath",
         "Type": "Ability",
         "Description": "Breathe! Gain more speed for 2 seconds, then become notably slower.",
-        "Thumbnail": "rbxassetid://4505987588",
+        "Thumbnail": "rbxassetid://4520944859",
         "Role": "Scientist",
         "ItemCost": {"Currency": "Bytes","Cost": 150},
         "Tags": []
@@ -137,7 +137,7 @@
         "Name": "Nightmare",
         "Type": "Perk",
         "Description": "Upon all levers being pulled, deal double damage and become slightly faster.",
-        "Thumbnail": "rbxassetid://4505987588",
+        "Thumbnail": "rbxassetid://4520944506",
         "Role": "Zombie",
         "ItemCost": {"Currency": "Bytes","Cost": 450},
         "Tags": []
@@ -149,7 +149,7 @@
         "Name": "Sixth Sense",
         "Type": "Perk",
         "Description": "You can hear actions commited by other players. Someone pulled a lever, a zombie killed someone just now? It's on your radar!",
-        "Thumbnail": "rbxassetid://549084266",
+        "Thumbnail": "rbxassetid://112902314",
         "Role": "Scientist",
         "ItemCost": {"Currency": "Bytes","Cost": 500},
         "Tags": []
